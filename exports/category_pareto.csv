@@ -1,0 +1,75 @@
+category_rank,category_name,category_revenue,revenue_share_pct,cumulative_revenue_share_pct,pareto_group
+1,health_beauty,1233131.72,9.33,9.33,Top 20% of categories
+2,watches_gifts,1166176.98,8.82,18.15,Top 20% of categories
+3,bed_bath_table,1023434.76,7.74,25.89,Top 20% of categories
+4,sports_leisure,954852.55,7.22,33.11,Top 20% of categories
+5,computers_accessories,888724.61,6.72,39.83,Top 20% of categories
+6,furniture_decor,711927.69,5.38,45.22,Top 20% of categories
+7,housewares,615628.69,4.66,49.87,Top 20% of categories
+8,cool_stuff,610204.1,4.62,54.49,Top 20% of categories
+9,auto,578966.65,4.38,58.87,Top 20% of categories
+10,toys,471286.48,3.56,62.43,Top 20% of categories
+11,garden_tools,470495.28,3.56,65.99,Top 20% of categories
+12,baby,400421.84,3.03,69.02,Top 20% of categories
+13,perfumery,390144.65,2.95,71.97,Top 20% of categories
+14,telephony,309860.23,2.34,74.31,Top 20% of categories
+15,office_furniture,268154.31,2.03,76.34,Top 20% of categories
+16,stationery,223788.69,1.69,78.03,Remaining categories
+17,computers,218684.14,1.65,79.69,Remaining categories
+18,pet_shop,211695.64,1.6,81.29,Remaining categories
+19,musical_instruments,184315.74,1.39,82.68,Remaining categories
+20,small_appliances,182754.12,1.38,84.06,Remaining categories
+21,Unknown / missing,170726.63,1.29,85.36,Remaining categories
+22,electronics,155043.93,1.17,86.53,Remaining categories
+23,fashion_bags_accessories,149329.39,1.13,87.66,Remaining categories
+24,consoles_games,148003.37,1.12,88.78,Remaining categories
+25,construction_tools_construction,142108.49,1.07,89.85,Remaining categories
+26,luggage_accessories,138701.63,1.05,90.9,Remaining categories
+27,home_appliances_2,107953.95,0.82,91.72,Remaining categories
+28,home_construction,81407.57,0.62,92.33,Remaining categories
+29,home_appliances,78832.48,0.6,92.93,Remaining categories
+30,agro_industry_and_commerce,70566.1,0.53,93.46,Remaining categories
+31,furniture_living_room,67350.7,0.51,93.97,Remaining categories
+32,home_confort,58008.45,0.44,94.41,Remaining categories
+33,fixed_telephony,55315.21,0.42,94.83,Remaining categories
+34,air_conditioning,53323.56,0.4,95.23,Remaining categories
+35,audio,50570.6,0.38,95.62,Remaining categories
+36,small_appliances_home_oven_and_coffee,46589.56,0.35,95.97,Remaining categories
+37,kitchen_dining_laundry_garden_furniture,45531.98,0.34,96.31,Remaining categories
+38,books_general_interest,45302.15,0.34,96.66,Remaining categories
+39,construction_tools_lights,39957.0,0.3,96.96,Remaining categories
+40,construction_tools_safety,38773.22,0.29,97.25,Remaining categories
+41,industry_commerce_and_business,38498.81,0.29,97.54,Remaining categories
+42,food,28731.15,0.22,97.76,Remaining categories
+43,market_place,27795.77,0.21,97.97,Remaining categories
+44,costruction_tools_garden,25096.28,0.19,98.16,Remaining categories
+45,art,23657.3,0.18,98.34,Remaining categories
+46,fashion_shoes,23001.46,0.17,98.51,Remaining categories
+47,drinks,21529.84,0.16,98.68,Remaining categories
+48,signaling_and_security,21315.05,0.16,98.84,Remaining categories
+49,furniture_bedroom,19051.8,0.14,98.98,Remaining categories
+50,books_technical,18702.23,0.14,99.12,Remaining categories
+51,costruction_tools_tools,15903.95,0.12,99.24,Remaining categories
+52,food_drink,14942.88,0.11,99.36,Remaining categories
+53,fashion_male_clothing,10452.33,0.08,99.43,Remaining categories
+54,fashion_underwear_beach,9305.95,0.07,99.5,Remaining categories
+55,christmas_supplies,8737.84,0.07,99.57,Remaining categories
+56,tablets_printing_image,7528.41,0.06,99.63,Remaining categories
+57,cine_photo,6674.47,0.05,99.68,Remaining categories
+58,music,6034.35,0.05,99.72,Remaining categories
+59,dvds_blu_ray,4542.59,0.03,99.76,Remaining categories
+60,party_supplies,4465.19,0.03,99.79,Remaining categories
+61,books_imported,4418.86,0.03,99.83,Remaining categories
+62,furniture_mattress_and_upholstery,4323.38,0.03,99.86,Remaining categories
+63,portateis_cozinha_e_preparadores_de_alimentos,3933.63,0.03,99.89,Remaining categories
+64,fashio_female_clothing,2634.94,0.02,99.91,Remaining categories
+65,fashion_sport,2094.52,0.02,99.92,Remaining categories
+66,la_cuisine,2054.99,0.02,99.94,Remaining categories
+67,arts_and_craftmanship,1814.01,0.01,99.95,Remaining categories
+68,diapers_and_hygiene,1500.79,0.01,99.96,Remaining categories
+69,pc_gamer,1306.95,0.01,99.97,Remaining categories
+70,flowers,1110.04,0.01,99.98,Remaining categories
+71,home_comfort_2,760.27,0.01,99.99,Remaining categories
+72,cds_dvds_musicals,730.0,0.01,99.99,Remaining categories
+73,fashion_childrens_clothes,519.95,0.0,100.0,Remaining categories
+74,security_and_services,283.29,0.0,100.0,Remaining categories

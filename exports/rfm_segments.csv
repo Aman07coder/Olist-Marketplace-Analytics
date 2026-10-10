@@ -1,0 +1,6 @@
+customer_segment,customer_count,customer_pct,avg_delivered_orders,avg_item_revenue
+Other customers,65439,70.09,1.0,108.75
+New customers,18051,19.34,1.0,138.37
+At risk,8064,8.64,1.13,387.85
+Champions,931,1.0,2.19,327.74
+Loyal,873,0.94,2.07,199.91
