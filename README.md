@@ -88,8 +88,4 @@ Export all analysis results for Power BI:
 python scripts\export_for_power_bi.py
 ```
 
-## Resume bullets
 
-- Analyzed **99K+ Olist orders** using Python, SQLite, and SQL (CTEs and window functions) to study monthly revenue, category concentration, repeat purchasing, and RFM segments.
-- Found that late-delivered orders averaged **2.57** review score versus **4.29** for on-time or early orders (**1.72-point gap**); built a **one-page Power BI dashboard** to present revenue trends, top categories, and delivery impact.
-- Measured a **3.0% repeat-customer rate** (**2,801 of 93,358** delivered customers) and identified **8,064 At risk customers** via rule-based RFM segmentation.
